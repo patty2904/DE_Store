@@ -11,7 +11,7 @@ The system has a suite of store management functionalities such as price control
 
 •	Loyalty Card: the store can make further special offers to customers who regularly use their branches.
 
-•	Finance Approval: DE-Store offers its customer the opportunity to buy now and pay later using an online finance system, Enabling, which is linked to DE-Store via a portal. (Hint: you may presume that the Enabling finance system already exists, you simply need to call it via a portal). 
+•	Finance Approval: DE-Store offers its customer the opportunity to buy now and pay later using an online finance system, Enabling, which is linked to DE-Store via a portal. 
 
 •	Reports and Analysis: DE-Store tracks the purchase activities of customers from the accounting database and generates reports on how the store is performing.
 
